@@ -1,0 +1,13 @@
+{
+  "registration":
+  {
+    "valid":
+    {
+      "countryCode": "+962",
+      "mobileNumber": "791019845",
+      "password": "Test@1234",
+      "fullName": "Bara Almousa",
+      "emailAddress": "khalidbaraa@gmail.com"
+    }
+  }
+}
